@@ -1,0 +1,547 @@
+[{
+  "_id": {
+    "$oid": "631853e5dc86f6a9d77116d6"
+  },
+  "subCategory": "HP",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631851b2dc86f6a9d77116b9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631853e9dc86f6a9d77116da"
+  },
+  "subCategory": "Apple",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631851b2dc86f6a9d77116b9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631853eddc86f6a9d77116de"
+  },
+  "subCategory": "Dell",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631851b2dc86f6a9d77116b9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631853f1dc86f6a9d77116e2"
+  },
+  "subCategory": "Lenovo",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631851b2dc86f6a9d77116b9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631853f6dc86f6a9d77116e6"
+  },
+  "subCategory": "HCL",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631851b2dc86f6a9d77116b9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631853ffdc86f6a9d77116ea"
+  },
+  "subCategory": "Sony",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631851b2dc86f6a9d77116b9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185404dc86f6a9d77116ee"
+  },
+  "subCategory": "Asus",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631851b2dc86f6a9d77116b9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185408dc86f6a9d77116f2"
+  },
+  "subCategory": "MSI",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631851b2dc86f6a9d77116b9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185417dc86f6a9d77116fb"
+  },
+  "subCategory": "Apple",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6318541cdc86f6a9d77116ff"
+  },
+  "subCategory": "Samsung",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185421dc86f6a9d7711703"
+  },
+  "subCategory": "Asus",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185424dc86f6a9d7711707"
+  },
+  "subCategory": "Mi",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185428dc86f6a9d771170b"
+  },
+  "subCategory": "Poco",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185431dc86f6a9d771170f"
+  },
+  "subCategory": "Oppo",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185435dc86f6a9d7711713"
+  },
+  "subCategory": "Vivo",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6318543adc86f6a9d7711717"
+  },
+  "subCategory": "Lenovo",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6318543ddc86f6a9d771171b"
+  },
+  "subCategory": "Htc",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185449dc86f6a9d771171f"
+  },
+  "subCategory": "Blackberry",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6318544edc86f6a9d7711723"
+  },
+  "subCategory": "Nokia",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6318546cdc86f6a9d7711728"
+  },
+  "subCategory": "Noting",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185472dc86f6a9d771172c"
+  },
+  "subCategory": "One Plus",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185476dc86f6a9d7711730"
+  },
+  "subCategory": "RealMe",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185483dc86f6a9d7711735"
+  },
+  "subCategory": "Motorola",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185242dc86f6a9d77116be",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185497dc86f6a9d771173c"
+  },
+  "subCategory": "Lg",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631852d8dc86f6a9d77116c4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6318549cdc86f6a9d7711740"
+  },
+  "subCategory": "Sony",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631852d8dc86f6a9d77116c4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631854a0dc86f6a9d7711744"
+  },
+  "subCategory": "Samsung",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631852d8dc86f6a9d77116c4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631854a4dc86f6a9d7711748"
+  },
+  "subCategory": "Mi",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631852d8dc86f6a9d77116c4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631854a9dc86f6a9d771174c"
+  },
+  "subCategory": "OnePlus",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631852d8dc86f6a9d77116c4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631854b8dc86f6a9d7711750"
+  },
+  "subCategory": "Philips",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631852d8dc86f6a9d77116c4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631854cedc86f6a9d7711757"
+  },
+  "subCategory": "Washing Machine",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185318dc86f6a9d77116c9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631854d2dc86f6a9d771175b"
+  },
+  "subCategory": "Iron",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185318dc86f6a9d77116c9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631854dadc86f6a9d771175f"
+  },
+  "subCategory": "steam Iron",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185318dc86f6a9d77116c9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631854e2dc86f6a9d7711763"
+  },
+  "subCategory": "Crookery",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185318dc86f6a9d77116c9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631854f2dc86f6a9d7711767"
+  },
+  "subCategory": "Vacuum cleaner",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185318dc86f6a9d77116c9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185502dc86f6a9d771176b"
+  },
+  "subCategory": "juicer mixer",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185318dc86f6a9d77116c9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6318550ddc86f6a9d771176f"
+  },
+  "subCategory": "Frieze",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185318dc86f6a9d77116c9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185521dc86f6a9d7711776"
+  },
+  "subCategory": "Male",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631853d4dc86f6a9d77116ce",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185525dc86f6a9d771177a"
+  },
+  "subCategory": "Women",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631853d4dc86f6a9d77116ce",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6318552edc86f6a9d771177e"
+  },
+  "subCategory": "Kids",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "631853d4dc86f6a9d77116ce",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631855ccdc86f6a9d77117a5"
+  },
+  "subCategory": "Mans",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185581dc86f6a9d7711783",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631855d1dc86f6a9d77117a9"
+  },
+  "subCategory": "Women",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185581dc86f6a9d7711783",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631855d6dc86f6a9d77117ad"
+  },
+  "subCategory": "kids",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "categoryId": "63185581dc86f6a9d7711783",
+  "__v": 0
+}]

@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "631851b2dc86f6a9d77116b9"
+  },
+  "name": "Laptop",
+  "image": "uploads/image_1662538162262.png",
+  "discount": "5",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185242dc86f6a9d77116be"
+  },
+  "name": "Mobile",
+  "image": "uploads/image_1662538306842.png",
+  "discount": "10",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631852d8dc86f6a9d77116c4"
+  },
+  "name": "TV",
+  "image": "uploads/image_1662538456335.png",
+  "discount": "25",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185318dc86f6a9d77116c9"
+  },
+  "name": "Home Appliences",
+  "image": "uploads/image_1662538520142.png",
+  "discount": "35",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631853d4dc86f6a9d77116ce"
+  },
+  "name": "Cloths",
+  "image": "uploads/image_1662538708982.png",
+  "discount": "30",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63185581dc86f6a9d7711783"
+  },
+  "name": "Footwear",
+  "image": "uploads/image_1662539137479.png",
+  "discount": "40",
+  "created": {
+    "$date": {
+      "$numberLong": "1662535853142"
+    }
+  },
+  "status": true,
+  "__v": 0
+}]
